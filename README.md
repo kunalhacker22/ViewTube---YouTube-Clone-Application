@@ -31,6 +31,7 @@ ViewTube is a lightweight YouTube clone web application that demonstrates a fami
 ---
 
 ## Project Overview
+<img width="1888" height="792" alt="Image" src="https://github.com/user-attachments/assets/99fe9ff3-82b0-4bec-908c-648cbf97ee56" />
 https://claude.ai/public/artifacts/47c37083-24a5-48d0-8d76-e2b7835bcea9
 ---
 ViewTube replicates core YouTube interface patterns to allow users to discover, search, and watch videos via the official YouTube embed player. The app is intended for general users, developers learning web apps, and organizations wanting a customizable video portal interface.
